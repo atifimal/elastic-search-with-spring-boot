@@ -1,4 +1,4 @@
-package com.atifimal.data.elasticsearch.basic.elasticsearchwithspringdata.config;
+package com.atifimal.data.elasticsearch.basic.config;
 
 import org.elasticsearch.client.RestHighLevelClient;
 import org.springframework.context.annotation.Bean;

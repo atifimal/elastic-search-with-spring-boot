@@ -1,4 +1,4 @@
-package com.atifimal.data.elasticsearch.basic.elasticsearchwithspringdata;
+package com.atifimal.data.elasticsearch.basic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
